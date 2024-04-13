@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>学习go语言</title>
+    <link href="/2024/04/13/%E5%AD%A6%E4%B9%A0go%E8%AF%AD%E8%A8%80/"/>
+    <url>/2024/04/13/%E5%AD%A6%E4%B9%A0go%E8%AF%AD%E8%A8%80/</url>
+    
+    <content type="html"><![CDATA[<h1 id="go语言学习"><a href="#go语言学习" class="headerlink" title="go语言学习"></a>go语言学习</h1><h2 id="学习目标"><a href="#学习目标" class="headerlink" title="学习目标"></a>学习目标</h2><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs go"><span class="hljs-keyword">package</span> main<br><br><span class="hljs-keyword">import</span>(<br><span class="hljs-string">&quot;fmt&quot;</span><br>)<br><br><span class="hljs-function"><span class="hljs-keyword">func</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span>&#123;<br>    fmt.Println(<span class="hljs-string">&quot;hello world&quot;</span>)<br>&#125;<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>go语言</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>测试文章</title>
     <link href="/2024/04/13/test/"/>
     <url>/2024/04/13/test/</url>
